@@ -88,8 +88,7 @@ padding-left: 320px;
 .designer_logos img{
     height: 50px;
     width: 70px;
-    display: inline;
-   
+    display: inline;   
     margin-left: 70px;
     padding-left: 10px;
 }
@@ -104,6 +103,7 @@ padding-left: 320px;
 .row p{
     color: white;
 }
+
 
 .row img{
     height: 200px;
@@ -201,10 +201,6 @@ padding-left: 320px;
         margin-left: 4px;
         justify-content: center;
     }
-
-
-    
-
 
 
 }
